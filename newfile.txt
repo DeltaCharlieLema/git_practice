@@ -1,1 +1,2 @@
-fuck the new branch
+Here is some text added to newFile
+
